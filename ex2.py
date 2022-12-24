@@ -6,4 +6,4 @@ UNSEEN_WORD = "unseen-word"
 LIDESTONE_SPLIT_RATE = 0.9
 
 if __name__ == "__main__":
-    pass
+    print('x')
