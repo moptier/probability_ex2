@@ -85,5 +85,5 @@ if __name__ == "__main__":
     outputs_list.append(len(observed_vocabulary_in_train_set))
 
     # Output 11
-    outputs_list.count(input_word)
+    outputs_list.append(train_set.count(input_word))
 
